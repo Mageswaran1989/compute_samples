@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/adasroot/!svn/ver/758/trunk/modules/Mageswaran_KT/OpenCL/AndroidBasicOpenCL/jni/CL
+END
+cl_gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/adasroot/!svn/ver/758/trunk/modules/Mageswaran_KT/OpenCL/AndroidBasicOpenCL/jni/CL/cl_gl.h
+END
+cl_gl_ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/adasroot/!svn/ver/758/trunk/modules/Mageswaran_KT/OpenCL/AndroidBasicOpenCL/jni/CL/cl_gl_ext.h
+END
+opencl.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/adasroot/!svn/ver/758/trunk/modules/Mageswaran_KT/OpenCL/AndroidBasicOpenCL/jni/CL/opencl.h
+END
+cl_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/adasroot/!svn/ver/758/trunk/modules/Mageswaran_KT/OpenCL/AndroidBasicOpenCL/jni/CL/cl_platform.h
+END
+cl.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/adasroot/!svn/ver/758/trunk/modules/Mageswaran_KT/OpenCL/AndroidBasicOpenCL/jni/CL/cl.h
+END
+cl_ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/adasroot/!svn/ver/758/trunk/modules/Mageswaran_KT/OpenCL/AndroidBasicOpenCL/jni/CL/cl_ext.h
+END
